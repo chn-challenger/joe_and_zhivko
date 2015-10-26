@@ -1,5 +1,5 @@
 def Game
   def initialize
-    @game = {}
+    @game = []
   end
 end
