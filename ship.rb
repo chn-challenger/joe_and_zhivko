@@ -8,4 +8,8 @@ class Ship
     'Die!!!'
   end
 
+  def sink
+    'sank ship'
+  end
+
 end
